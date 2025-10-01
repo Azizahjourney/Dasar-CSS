@@ -1,0 +1,116 @@
+body { 
+    font-family: sans-serif; 
+    margin: 0;
+     background-color: #f4f4f4; 
+}
+h1 { 
+    text-align: center;
+    color: #333;
+    margin-bottom: 40px;
+}
+.laptop01 {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto; 
+    width: 300px;
+    text-align: center; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.laptop01 img {
+    background-image: url('bg_image.jpg');  
+    background-repeat: repeat; 
+    background-position: center center; 
+    background-size: auto; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    padding: 30px 10px; 
+    height: 200px;
+    display: flex; 
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+.laptop01 button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.laptop02 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto; 
+    width: 300px;
+    text-align: center; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.laptop02 img {
+    background-image: url('bg_image.jpg');  
+    background-repeat: repeat; 
+    background-position: center center; 
+    background-size: auto; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    padding: 30px 10px; 
+    height: 200px;
+    display: flex; 
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+.laptop02 button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.laptop03 {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px auto; 
+    width: 300px;
+    text-align: center; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+.laptop03 img {
+    background-image: url('bg_image.jpg');  
+    background-repeat: repeat; 
+    background-position: center center; 
+    background-size: auto; 
+    color: rgb(255, 255, 255); 
+    text-align: center; 
+    padding: 30px 10px; 
+    height: 200px;
+    display: flex; 
+    flex-direction: column;  
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
+.laptop03 button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+      padding: 15px 25px; 
+    border-radius: 5px; 
+    z-index: 1000; 
+} 
+ 
